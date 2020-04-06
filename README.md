@@ -1,2 +1,3 @@
 # pong_deeprl
-The policy gradients for training a pong agent
+Policy network for training a pong agent to learn how to play the pong game.
+
